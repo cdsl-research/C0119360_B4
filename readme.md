@@ -5,3 +5,6 @@
 * current_logger  
 電力計測モジュールINA219を使用した、電力ロガーです。   
 INA219で取得した電流値をSDカードに書き込みます。
+* ble_time_test   
+BLE通信時間を計測し，ESP32内にcsvファイルを作成します。   
+
